@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Vinit Kumar
+title: About Steve Guan
 ---
 
-Your introduction here
+I'm a big dog.
