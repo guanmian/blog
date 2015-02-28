@@ -3,8 +3,8 @@ markdown: redcarpet
 pygments: true
 url: http://www.steveguan.com/blog
 paginate: 8
-description:     Jekyll theme for Programmers
-intro: White Paper is a Jekyll theme most suited to be used on tech blogs that like their content to shine.
+description:     Steve Guan's Blog
+intro: $ ls -l
 logo:             logo.png
 disqus_shortname:
 # url: http://gotchacode.com
