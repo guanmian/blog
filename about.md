@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About this Blog
+title: About This Blog
 ---
 
 This is Steve Guan's Blog.
