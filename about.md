@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Steve Guan
+title: About this Blog
 ---
 
-I'm a big dog.
+This is Steve Guan's Blog.
