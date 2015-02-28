@@ -1,5 +1,5 @@
 ---
-title: JBoss Application Server 7 内部架构概述
+title: "JBoss Application Server 7 内部架构概述"
 layout: "post"
 ---
 
