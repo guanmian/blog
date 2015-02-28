@@ -3,8 +3,6 @@ title: JBoss Application Server 7 内部架构概述
 layout: "post"
 ---
 
-# JBoss Application Server 7 内部架构概述
-
 本文由关冕译自：[AS 7 Internal Architecture Overview](https://community.jboss.org/wiki/AS7InternalArchitectureOverview)，转载请注明出处。
 
 ## 概述

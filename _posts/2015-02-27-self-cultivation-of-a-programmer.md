@@ -3,8 +3,6 @@ title: 一个程序员的自我修养
 layout: "post"
 ---
 
-# 一个程序员的自我修养
-
 ## 数据
 * [淘宝数据魔方技术架构解析](http://www.programmer.com.cn/7578/)
 * [The Log: What every software engineer should know about real-time data's unifying abstraction](http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
