@@ -47,6 +47,7 @@ layout: "post"
 * [OWASP Top Ten Proactive Controls](https://www.owasp.org/index.php/OWASP_Proactive_Controls#tab=OWASP_Top_Ten_Proactive_Controls)([译](http://www.infoq.com/cn/news/2014/06/owasp-proactive_controls))
 * [Google DNS劫持背后的技术分析](http://drops.wooyun.org/papers/1207)
 * [流量劫持是如何产生的？](http://fex.baidu.com/blog/2014/04/traffic-hijack/), [流量劫持能有多大危害？](http://fex.baidu.com/blog/2014/04/traffic-hijack-2/), [流量劫持 —— 浮层登录框的隐患](http://fex.baidu.com/blog/2014/06/danger-behind-popup-login-dialog/)
+* [Salted Password Hashing - Doing it Right](https://crackstation.net/hashing-security.htm)([译](http://blog.jobbole.com/61872/))
 
 ## Web
 * [Caching Tutorial](https://www.mnot.net/cache_docs/)
