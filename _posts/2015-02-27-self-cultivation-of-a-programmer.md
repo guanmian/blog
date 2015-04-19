@@ -50,7 +50,7 @@ layout: "post"
 * [Salted Password Hashing - Doing it Right](https://crackstation.net/hashing-security.htm)([译](http://blog.jobbole.com/61872/))
 
 ## Web
-* [Caching Tutorial](https://www.mnot.net/cache_docs/)
+* [Caching Tutorial](https://www.mnot.net/cache_docs/)([译](http://www.chedong.com/tech/cache_docs.html))
 * [HTTP Status Cats](https://www.flickr.com/photos/girliemac/sets/72157628409467125/)
 * [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 * [Starting to Write CSS](http://davidwalsh.name/starting-css)
