@@ -38,6 +38,7 @@ layout: "post"
 * [深入JVM锁机制1-synchronized](http://blog.csdn.net/chen77716/article/details/6618779), [深入JVM锁机制2-Lock](http://blog.csdn.net/chen77716/article/details/6641477)
 * [HotSpot Runtime Overview](http://openjdk.java.net/groups/hotspot/docs/RuntimeOverview.html)
 * [Java 8 Features – The ULTIMATE Guide](http://www.javacodegeeks.com/2014/05/java-8-features-tutorial.html)([译](http://www.importnew.com/11908.html))
+* [Java Concurrency](http://tutorials.jenkov.com/java-concurrency/index.html)
 
 ## 安全
 * [Yummy cookies across domains](https://github.com/blog/1466-yummy-cookies-across-domains)([译](http://www.oschina.net/translate/yummy-cookies-across-domains))
