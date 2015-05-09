@@ -67,6 +67,7 @@ layout: "post"
 * [天猫浏览型应用的CDN静态化架构演变](http://www.csdn.net/article/2014-01-22/2818227-CDN-Architecture)
 * [从输入 URL 到页面加载完成的过程中都发生了什么事情？](http://fex.baidu.com/blog/2014/05/what-happen/)
 * [High Performance Networking in Chrome](http://aosabook.org/en/posa/high-performance-networking-in-chrome.html)
+* [全站 https 时代的号角 : 大型网站的 https 实践系列](http://op.baidu.com/2015/04/https-index/)
 
 ## DB
 * [10 MySQL settings to tune after installation](http://www.mysqlperformanceblog.com/2014/01/28/10-mysql-settings-to-tune-after-installation/)
