@@ -10,6 +10,7 @@ layout: "post"
 ## 架构
 * [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
 * [Scalability lessons from Google, YouTube, Twitter, Amazon, eBay, Facebook and Instagram](http://www.dodgycoder.net/2012/04/scalability-lessons-from-google-youtube.html)
+* [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
 
 ## 网络
 * [互联网协议入门（一）](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html), [互联网协议入门（二）](http://www.ruanyifeng.com/blog/2012/06/internet_protocol_suite_part_ii.html)
