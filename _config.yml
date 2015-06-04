@@ -1,7 +1,7 @@
 name: White Paper
 markdown: redcarpet
 pygments: true
-url: http://www.steveguan.com/blog
+url: http://www.guanmian.net/blog
 description: Steve Guan's Blog
 paginate: 8
 intro: $ ls -l
