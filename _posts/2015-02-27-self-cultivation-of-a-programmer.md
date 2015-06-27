@@ -85,6 +85,7 @@ layout: "post"
 ## 工具&框架
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 * [Netty系列之Netty高性能之道](http://www.infoq.com/cn/articles/netty-high-performance)
+* [Git 版本控制系統](https://ihower.tw/git/)
 
 ## 移动
 * [聊聊移动端跨平台开发的各种技术](http://fex.baidu.com/blog/2015/05/cross-mobile/)
